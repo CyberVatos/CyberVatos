@@ -32,10 +32,13 @@
 
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/rSMWkWn6F8)
 <br>  
+<br>  
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/CyberVatos)
+<br>  
 <br>  
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-6a3ce2?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
 https://cybervatos.sellix.io/)
+<br>  
 <br>  
 </div>
 <br>

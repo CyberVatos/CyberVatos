@@ -36,7 +36,7 @@
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/CyberVatos)
 <br>  
 <br>  
-[<img align="top" alt="sellix" src="https://tryhackme-badges.s3.amazonaws.com/CyberVATOS.png"/>](	
+[<img align="top" alt="tryhackme" src="https://img.shields.io/badge/TryHackMe-3ce26a?style=for-the-badge&logo=tryhackme&logoColor=white"/>](	
 https://tryhackme.com/p/CyberVATOS/)
 <br>  
 <br>  

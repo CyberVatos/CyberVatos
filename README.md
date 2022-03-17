@@ -1,6 +1,6 @@
 
 <p align="center"(https://cdn.discordapp.com/attachments/857335828011155490/858401080710922260/image0.gif)
-<h1 align ="center">Hi, Cyber Vatos </h1>
+<h1 align ="center">Hi, I'm Snow </h1>
 <h3 align = "center"><strong> Student of CyberSecurity 👩‍💻 </h3>
   
 <br>
